@@ -1,4 +1,4 @@
-package HomePage;
+spackage HomePage;
 
 import java.io.IOException;
 
