@@ -1,4 +1,4 @@
-spackage HomePage;
+package HomePage;
 
 import java.io.IOException;
 
@@ -27,6 +27,7 @@ public class homePageTest extends BaseRepo {
 			System.out.println("Product List:"+list);
 		}
 		//from git hub
+		//from eclipse
 		 
 	}
 	
